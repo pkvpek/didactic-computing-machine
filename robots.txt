@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:https://pkv-games.sigmadigital.io/sitemap.xml
